@@ -6,7 +6,7 @@
 - Unclear voting outcomes, chaotic communications platforms, and too large a proposal negatively impacted the proposal process and played a role in creating an unhealthy governance culture
 - Signaling proposals can be unproductive if execution outcomes are unclear
 - The creation of a decentralized knowledge base can improve the quality of governance discussions, reduce governance noise, and make it easier for more people to participate in Cosmos governance
-- Epistemic-status proposals (proposals that gauge the completeness of an idea and how we reached that point) can help us improve our collective decision-making skills and create a healthier governance culture with more effective proposals
+- Epistemic-status proposals (proposals that gauge the completeness of an idea) can help us improve our collective decision-making skills and create a healthier governance culture with more effective proposals
 
 ## Overview
 
