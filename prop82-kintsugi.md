@@ -133,7 +133,7 @@ On October 21st, as the conversation was spiraling increasingly out of control, 
 
 The disorderly communications persisted, [changes to the vision paper](https://gateway.pinata.cloud/ipfs/QmdC3YuZBUq5b9mEr3bKTDRq4XLcxafe3LHqDNFUgUoa61) were proposed, and the proposal was put on-chain on October 31st. 
 
-I've already *attempted* to lay out how the narrative shifted during the 39 day discussion period as the proposal itself was pushed aside and the governance participants from both sides of the proposal were brought to the forefront. It turns out that this tendency is common, and often occurs in conversations about complex topics. That's because it's an effective rhetorical tactic. 
+I've already *attempted* to lay out how the narrative shifted during the 36 day discussion period as the proposal itself was pushed aside and the governance participants from both sides of the proposal were brought to the forefront. It turns out that this tendency is common, and often occurs in conversations about complex topics. That's because it's an effective rhetorical tactic. 
 
 > "[Study r]esults indicate that **ad hominem attacks may have the same degree of impact as attacks on the empirical basis of the science claims**, and that allegations of conflict of interest may be just as influential as allegations of outright fraud." (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192025; emphasis added)
 
