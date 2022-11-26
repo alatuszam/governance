@@ -232,3 +232,7 @@ Additionally, I believe the methodology proposed is still incomplete. I hope tha
 
 ## Appendix
 *Epistemic-status: mid-confidence about my own experience; low to mid-confidence that the essay represents the viewpoint of others.*
+
+## Footnotes
+1. Analysis has only been done from April onwards. 
+2. Data gathered via message links. Telegram message links contain the message number in the chat (with the first message being tgchat/1) 
