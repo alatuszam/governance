@@ -1,3 +1,5 @@
+# Kintsugi: proposal 82 history and future
+
 ## TL;DR
 - We can learn valuable lessons for the future by understanding the history of [Proposal 82](https://www.mintscan.io/cosmos/proposals/82)
 - Proposal 82 had the highest number of token votes ever in Cosmos Hub governance
